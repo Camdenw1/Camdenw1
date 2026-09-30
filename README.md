@@ -8,6 +8,8 @@ I build AI and automation that handles the tedious stuff so people don't have to
 - [**fantasy-sports-assistant**](https://github.com/Camdenw1/fantasy-sports-assistant): a fantasy football draft board built around my league's actual scoring, growing into a personal fantasy dashboard.
 - [**poker-trainer**](https://github.com/Camdenw1/poker-trainer): a preflop trainer for my home game.
 
-**Outside of code:** _Coming soon._
+**Outside of code:** 
+
+I am currently training for a Ironman 70.3. I love hiking, sports, backpacking, music, and learning.
 
 More about me: [camden-weber.vercel.app](https://camden-weber.vercel.app)
